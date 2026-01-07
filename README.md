@@ -2,6 +2,8 @@
 A comprehensive Power BI dashboard that analyzes supply chain operations, tracking delivery performance, product analytics, and regional metrics to help operations teams identify bottlenecks and improve efficiency.
 
 
+![Alt text](https://github.com/SankalpT03/Supply-Chain-Performance-Dashboard/blob/main/Pg1-Executive_Summary.png)
+
 
 🛠️ Tech Stack
 | Technology | Usage |
