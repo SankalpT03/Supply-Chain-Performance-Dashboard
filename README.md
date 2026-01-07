@@ -4,6 +4,8 @@ A comprehensive Power BI dashboard that analyzes supply chain operations, tracki
 
 ![Alt text](https://github.com/SankalpT03/Supply-Chain-Performance-Dashboard/blob/main/Pg1-Executive_Summary.png)
 ![Alt text](https://github.com/SankalpT03/Supply-Chain-Performance-Dashboard/blob/main/Pg2-Delivery_%20performance.png)
+![Alt text](https://github.com/SankalpT03/Supply-Chain-Performance-Dashboard/blob/main/pg3-Product_analysis.png)
+![Alt text]()
 
 
 🛠️ Tech Stack
